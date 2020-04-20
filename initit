@@ -1,0 +1,3 @@
+source ~/.dotfiles/deldog
+source ~/.dotfiles/git && git_setup
+source ~/.dotfiles/compile

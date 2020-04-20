@@ -1,0 +1,5 @@
+alias c='gcc $1 && ./a.out'
+alias cpp='g++ $1 && ./a.out'
+alias flapk='flutter build apk --target-platform android-arm64 --split-per-abi --debug'
+alias goc='go run $1'
+
